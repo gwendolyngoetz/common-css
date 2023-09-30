@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-family: 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   min-height: 100vh;
   line-height: 1.5;
   font-weight: var(--default-font-weight);
